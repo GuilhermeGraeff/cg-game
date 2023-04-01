@@ -51,27 +51,27 @@ arveresPath[8] = new Array();
 arveresPath[9] = new Array();
 arveresPath[10] = new Array();
 
-arveresPath[0][0] = 'assets/floresta/Trees/FBX Files/Tree 1.1/Tree1.1.fbx';
+arveresPath[0][0] = require('./assets/floresta/Trees/FBX Files/Tree 1.1/Tree1.1.fbx');
 arveresPath[0][1] = -14; 
-arveresPath[1][0] = 'assets/floresta/Trees/FBX Files/Tree 1.2/Tree1.2.fbx';
+arveresPath[1][0] = require('./assets/floresta/Trees/FBX Files/Tree 1.2/Tree1.2.fbx');
 arveresPath[1][1] = -14;
-arveresPath[2][0] = 'assets/floresta/Trees/FBX Files/Tree 1.3/Tree1.3.fbx';
+arveresPath[2][0] = require('./assets/floresta/Trees/FBX Files/Tree 1.3/Tree1.3.fbx');
 arveresPath[2][1] = -14;
-arveresPath[3][0] = 'assets/floresta/Trees/FBX Files/Tree 2.1/Tree2.1.fbx';
+arveresPath[3][0] = require('./assets/floresta/Trees/FBX Files/Tree 2.1/Tree2.1.fbx');
 arveresPath[3][1] = 26; 
-arveresPath[4][0] = 'assets/floresta/Trees/FBX Files/Tree 2.2/Tree2.2.fbx';
+arveresPath[4][0] = require('./assets/floresta/Trees/FBX Files/Tree 2.2/Tree2.2.fbx');
 arveresPath[4][1] = 26; 
-arveresPath[5][0] = 'assets/floresta/Trees/FBX Files/Tree 2.3/Tree2.3.fbx';
+arveresPath[5][0] = require('./assets/floresta/Trees/FBX Files/Tree 2.3/Tree2.3.fbx');
 arveresPath[5][1] = 11; 
-arveresPath[6][0] = 'assets/floresta/Trees/FBX Files/Tree 3.1/Tree3.1.fbx';
+arveresPath[6][0] = require('./assets/floresta/Trees/FBX Files/Tree 3.1/Tree3.1.fbx');
 arveresPath[6][1] = 15;
-arveresPath[7][0] = 'assets/floresta/Trees/FBX Files/Tree 3.2/Tree3.2.fbx';
+arveresPath[7][0] = require('./assets/floresta/Trees/FBX Files/Tree 3.2/Tree3.2.fbx');
 arveresPath[7][1] = 20;
-arveresPath[8][0] = 'assets/floresta/Trees/FBX Files/Tree 3.3/Tree3.3.fbx';
+arveresPath[8][0] = require('./assets/floresta/Trees/FBX Files/Tree 3.3/Tree3.3.fbx');
 arveresPath[8][1] = 8;
-arveresPath[9][0] = 'assets/floresta/Trees/FBX Files/Tree 1.1/Tree1.1.fbx';
+arveresPath[9][0] = require('./assets/floresta/Trees/FBX Files/Tree 1.1/Tree1.1.fbx');
 arveresPath[9][1] = -14; 
-arveresPath[10][0] = 'assets/floresta/Trees/FBX Files/Tree 1.1/Tree1.1.fbx';
+arveresPath[10][0] = require('./assets/floresta/Trees/FBX Files/Tree 1.1/Tree1.1.fbx');
 arveresPath[10][1] = -14; 
 
 
@@ -88,27 +88,27 @@ flowersPath[8] = new Array();
 flowersPath[9] = new Array();
 flowersPath[10] = new Array();
 
-flowersPath[0][0] = 'assets/floresta/Flowers/FBX Files/Flower1.1/Flower1.1.fbx';
+flowersPath[0][0] = require('./assets/floresta/Flowers/FBX Files/Flower1.1/Flower1.1.fbx');
 flowersPath[0][1] = -11.5; 
-flowersPath[1][0] = 'assets/floresta/Flowers/FBX Files/Flower1.2/Flower1.2.fbx';
+flowersPath[1][0] = require('./assets/floresta/Flowers/FBX Files/Flower1.2/Flower1.2.fbx');
 flowersPath[1][1] = -11.5;
-flowersPath[2][0] = 'assets/floresta/Flowers/FBX Files/Flower1.3/Flower1.3.fbx';
+flowersPath[2][0] = require('./assets/floresta/Flowers/FBX Files/Flower1.3/Flower1.3.fbx');
 flowersPath[2][1] = -11.5;
-flowersPath[3][0] = 'assets/floresta/Flowers/FBX Files/Flower2.1/Flower2.1.fbx';
+flowersPath[3][0] = require('./assets/floresta/Flowers/FBX Files/Flower2.1/Flower2.1.fbx');
 flowersPath[3][1] = -11.5; 
-flowersPath[4][0] = 'assets/floresta/Flowers/FBX Files/Flower2.2/Flower2.2.fbx';
+flowersPath[4][0] = require('./assets/floresta/Flowers/FBX Files/Flower2.2/Flower2.2.fbx');
 flowersPath[4][1] = -11.5; 
-flowersPath[5][0] = 'assets/floresta/Flowers/FBX Files/Flower2.3/Flower2.3.fbx';
+flowersPath[5][0] = require('./assets/floresta/Flowers/FBX Files/Flower2.3/Flower2.3.fbx');
 flowersPath[5][1] = -11.5; 
-flowersPath[6][0] = 'assets/floresta/Flowers/FBX Files/Flower3.1/Flower3.1.fbx';
+flowersPath[6][0] = require('./assets/floresta/Flowers/FBX Files/Flower3.1/Flower3.1.fbx');
 flowersPath[6][1] = -11.5;
-flowersPath[7][0] = 'assets/floresta/Flowers/FBX Files/Flower3.2/Flower3.2.fbx';
+flowersPath[7][0] = require('./assets/floresta/Flowers/FBX Files/Flower3.2/Flower3.2.fbx');
 flowersPath[7][1] = -11.5;
-flowersPath[8][0] = 'assets/floresta/Flowers/FBX Files/Flower3.3/Flower3.3.fbx';
+flowersPath[8][0] = require('./assets/floresta/Flowers/FBX Files/Flower3.3/Flower3.3.fbx');
 flowersPath[8][1] = -11.5;
-flowersPath[9][0] = 'assets/floresta/Flowers/FBX Files/Flower1.1/Flower1.1.fbx';
+flowersPath[9][0] = require('./assets/floresta/Flowers/FBX Files/Flower1.1/Flower1.1.fbx');
 flowersPath[9][1] = -11.5; 
-flowersPath[10][0] = 'assets/floresta/Flowers/FBX Files/Flower1.1/Flower1.1.fbx';
+flowersPath[10][0] = require('./assets/floresta/Flowers/FBX Files/Flower1.1/Flower1.1.fbx');
 flowersPath[10][1] = -11.5; 
 
 var cogumelosPath = new Array();
@@ -124,27 +124,27 @@ cogumelosPath[8] = new Array();
 cogumelosPath[9] = new Array();
 cogumelosPath[10] = new Array();
 
-cogumelosPath[0][0] = 'assets/floresta/Mushrooms/FBX Files/Mushroom1.1/Mushroom1.1.fbx';
+cogumelosPath[0][0] = require('./assets/floresta/Mushrooms/FBX Files/Mushroom1.1/Mushroom1.1.fbx');
 cogumelosPath[0][1] = -13.3; 
-cogumelosPath[1][0] = 'assets/floresta/Mushrooms/FBX Files/Mushroom1.2/Mushroom1.2.fbx';
+cogumelosPath[1][0] = require('./assets/floresta/Mushrooms/FBX Files/Mushroom1.2/Mushroom1.2.fbx');
 cogumelosPath[1][1] = -13.3;
-cogumelosPath[2][0] = 'assets/floresta/Mushrooms/FBX Files/Mushroom1.1/Mushroom1.1.fbx';
+cogumelosPath[2][0] = require('./assets/floresta/Mushrooms/FBX Files/Mushroom1.1/Mushroom1.1.fbx');
 cogumelosPath[2][1] = -13.3;
-cogumelosPath[3][0] = 'assets/floresta/Mushrooms/FBX Files/Mushroom2.1/Mushroom2.1.fbx';
+cogumelosPath[3][0] = require('./assets/floresta/Mushrooms/FBX Files/Mushroom2.1/Mushroom2.1.fbx');
 cogumelosPath[3][1] = -13.3; 
-cogumelosPath[4][0] = 'assets/floresta/Mushrooms/FBX Files/Mushroom2.2/Mushroom2.2.fbx';
+cogumelosPath[4][0] = require('./assets/floresta/Mushrooms/FBX Files/Mushroom2.2/Mushroom2.2.fbx');
 cogumelosPath[4][1] = -13.3; 
-cogumelosPath[5][0] = 'assets/floresta/Mushrooms/FBX Files/Mushroom2.1/Mushroom2.1.fbx';
+cogumelosPath[5][0] = require('./assets/floresta/Mushrooms/FBX Files/Mushroom2.1/Mushroom2.1.fbx');
 cogumelosPath[5][1] = -13.3; 
-cogumelosPath[6][0] = 'assets/floresta/Mushrooms/FBX Files/Mushroom2.2/Mushroom2.2.fbx';
+cogumelosPath[6][0] = require('./assets/floresta/Mushrooms/FBX Files/Mushroom2.2/Mushroom2.2.fbx');
 cogumelosPath[6][1] = -13.3;
-cogumelosPath[7][0] = 'assets/floresta/Mushrooms/FBX Files/Mushroom2.1/Mushroom2.1.fbx';
+cogumelosPath[7][0] = require('./assets/floresta/Mushrooms/FBX Files/Mushroom2.1/Mushroom2.1.fbx');
 cogumelosPath[7][1] = -13.3;
-cogumelosPath[8][0] = 'assets/floresta/Mushrooms/FBX Files/Mushroom2.2/Mushroom2.2.fbx';
+cogumelosPath[8][0] = require('./assets/floresta/Mushrooms/FBX Files/Mushroom2.2/Mushroom2.2.fbx');
 cogumelosPath[8][1] = -13.3;
-cogumelosPath[9][0] = 'assets/floresta/Mushrooms/FBX Files/Mushroom1.1/Mushroom1.1.fbx';
+cogumelosPath[9][0] = require('./assets/floresta/Mushrooms/FBX Files/Mushroom1.1/Mushroom1.1.fbx');
 cogumelosPath[9][1] = -13.3; 
-cogumelosPath[10][0] = 'assets/floresta/Mushrooms/FBX Files/Mushroom1.2/Mushroom1.2.fbx';
+cogumelosPath[10][0] = require('./assets/floresta/Mushrooms/FBX Files/Mushroom1.2/Mushroom1.2.fbx');
 cogumelosPath[10][1] = -13.3; 
 
 var bushesPath = new Array();
@@ -160,27 +160,27 @@ bushesPath[8] = new Array();
 bushesPath[9] = new Array();
 bushesPath[10] = new Array();
 
-bushesPath[0][0] = 'assets/floresta/Bush/FBX Files/Bush1.1/Bush1.1.fbx';
+bushesPath[0][0] = require('./assets/floresta/Bush/FBX Files/Bush1.1/Bush1.1.fbx');
 bushesPath[0][1] = -11.5; 
-bushesPath[1][0] = 'assets/floresta/Bush/FBX Files/Bush1.2/Bush1.2.fbx';
+bushesPath[1][0] = require('./assets/floresta/Bush/FBX Files/Bush1.2/Bush1.2.fbx');
 bushesPath[1][1] = -11.5;
-bushesPath[2][0] = 'assets/floresta/Bush/FBX Files/Bush1.3/Bush1.3.fbx';
+bushesPath[2][0] = require('./assets/floresta/Bush/FBX Files/Bush1.3/Bush1.3.fbx');
 bushesPath[2][1] = -11.5;
-bushesPath[3][0] = 'assets/floresta/Bush/FBX Files/Bush2.1/Bush2.1.fbx';
+bushesPath[3][0] = require('./assets/floresta/Bush/FBX Files/Bush2.1/Bush2.1.fbx');
 bushesPath[3][1] = -11.5; 
-bushesPath[4][0] = 'assets/floresta/Bush/FBX Files/Bush2.2/Bush2.2.fbx';
+bushesPath[4][0] = require('./assets/floresta/Bush/FBX Files/Bush2.2/Bush2.2.fbx');
 bushesPath[4][1] = -11.5; 
-bushesPath[5][0] = 'assets/floresta/Bush/FBX Files/Bush2.3/Bush2.3.fbx';
+bushesPath[5][0] = require('./assets/floresta/Bush/FBX Files/Bush2.3/Bush2.3.fbx');
 bushesPath[5][1] = -11.5; 
-bushesPath[6][0] = 'assets/floresta/Bush/FBX Files/Bush3.1/Bush3.1.fbx';
+bushesPath[6][0] = require('./assets/floresta/Bush/FBX Files/Bush3.1/Bush3.1.fbx');
 bushesPath[6][1] = -11.5;
-bushesPath[7][0] = 'assets/floresta/Bush/FBX Files/Bush3.2/Bush3.2.fbx';
+bushesPath[7][0] = require('./assets/floresta/Bush/FBX Files/Bush3.2/Bush3.2.fbx');
 bushesPath[7][1] = -11.5;
-bushesPath[8][0] = 'assets/floresta/Bush/FBX Files/Bush3.3/Bush3.3.fbx';
+bushesPath[8][0] = require('./assets/floresta/Bush/FBX Files/Bush3.3/Bush3.3.fbx');
 bushesPath[8][1] = -11.5;
-bushesPath[9][0] = 'assets/floresta/Bush/FBX Files/Bush1.2/Bush1.2.fbx';
+bushesPath[9][0] = require('./assets/floresta/Bush/FBX Files/Bush1.2/Bush1.2.fbx');
 bushesPath[9][1] = -11.5; 
-bushesPath[10][0] = 'assets/floresta/Bush/FBX Files/Bush1.3/Bush1.3.fbx';
+bushesPath[10][0] = require('./assets/floresta/Bush/FBX Files/Bush1.3/Bush1.3.fbx');
 
 var stonesPath = new Array();
 stonesPath[0] = new Array();
@@ -195,27 +195,27 @@ stonesPath[8] = new Array();
 stonesPath[9] = new Array();
 stonesPath[10] = new Array();
 
-stonesPath[0][0] = 'assets/floresta/Stone/FBX Files/Stone1.1/Stone1.1.fbx';
+stonesPath[0][0] = require('./assets/floresta/Stone/FBX Files/Stone1.1/Stone1.1.fbx');
 stonesPath[0][1] = -11.5; 
-stonesPath[1][0] = 'assets/floresta/Stone/FBX Files/Stone1.2/Stone1.2.fbx';
+stonesPath[1][0] = require('./assets/floresta/Stone/FBX Files/Stone1.2/Stone1.2.fbx');
 stonesPath[1][1] = -11.5;
-stonesPath[2][0] = 'assets/floresta/Stone/FBX Files/Stone1.3/Stone1.3.fbx';
+stonesPath[2][0] = require('./assets/floresta/Stone/FBX Files/Stone1.3/Stone1.3.fbx');
 stonesPath[2][1] = -11.5;
-stonesPath[3][0] = 'assets/floresta/Stone/FBX Files/Stone2.1/Stone2.1.fbx';
+stonesPath[3][0] = require('./assets/floresta/Stone/FBX Files/Stone2.1/Stone2.1.fbx');
 stonesPath[3][1] = -11.5; 
-stonesPath[4][0] = 'assets/floresta/Stone/FBX Files/Stone2.2/Stone2.2.fbx';
+stonesPath[4][0] = require('./assets/floresta/Stone/FBX Files/Stone2.2/Stone2.2.fbx');
 stonesPath[4][1] = -11.5; 
-stonesPath[5][0] = 'assets/floresta/Stone/FBX Files/Stone2.3/Stone2.3.fbx';
+stonesPath[5][0] = require('./assets/floresta/Stone/FBX Files/Stone2.3/Stone2.3.fbx');
 stonesPath[5][1] = -11.5; 
-stonesPath[6][0] = 'assets/floresta/Stone/FBX Files/Stone3.1/Stone3.1.fbx';
+stonesPath[6][0] = require('./assets/floresta/Stone/FBX Files/Stone3.1/Stone3.1.fbx');
 stonesPath[6][1] = -11.5;
-stonesPath[7][0] = 'assets/floresta/Stone/FBX Files/Stone3.2/Stone3.2.fbx';
+stonesPath[7][0] = require('./assets/floresta/Stone/FBX Files/Stone3.2/Stone3.2.fbx');
 stonesPath[7][1] = -11.5;
-stonesPath[8][0] = 'assets/floresta/Stone/FBX Files/Stone3.3/Stone3.3.fbx';
+stonesPath[8][0] = require('./assets/floresta/Stone/FBX Files/Stone3.3/Stone3.3.fbx');
 stonesPath[8][1] = -11.5;
-stonesPath[9][0] = 'assets/floresta/Stone/FBX Files/Stone1.2/Stone1.2.fbx';
+stonesPath[9][0] = require('./assets/floresta/Stone/FBX Files/Stone1.2/Stone1.2.fbx');
 stonesPath[9][1] = -11.5; 
-stonesPath[10][0] = 'assets/floresta/Stone/FBX Files/Stone1.3/Stone1.3.fbx';
+stonesPath[10][0] = require('./assets/floresta/Stone/FBX Files/Stone1.3/Stone1.3.fbx');
 
 
 /**Interface gráfica */
@@ -415,14 +415,15 @@ var loadObjects = function(){
 	
     let fbxLoader = new THREE.FBXLoader();
 	let textLoader = new THREE.TextureLoader();
-
+	let path = require('./assets/bau/chest_low.FBX');
 	fbxLoader.load(
-		'assets/bau/chest_low.FBX',//o que carregar
+		path,//o que carregar
 		function(obj){ //função executada após o loading
 			obj.traverse(
 				function (child){
 					if (child instanceof THREE.Mesh){
-						let texture = textLoader.load('assets/bau/Texture/default_albedo.jpg');
+						let patht = require('./assets/bau/Texture/default_albedo.jpg');
+						let texture = textLoader.load(patht);
 						child.material = new THREE.MeshStandardMaterial({map: texture});
 						child.castShadow = true;
 						child.receiveShadow = true;
@@ -455,14 +456,15 @@ var loadObjects = function(){
 			console.log("Deu erro: "+error);
 		}
 	);
-	
+	let path = require('./assets/casa/Fantasy_House.FBX');
 	fbxLoader.load(
-		'assets/casa/Fantasy_House.FBX',//o que carregar
+		path,//o que carregar
 		function(obj){ //função executada após o loading
 			obj.traverse(
 				function (child){
 					if (child instanceof THREE.Mesh){
-						let texture = textLoader.load('assets/casa/Texture/House2_low_03 - Default_AlbedoTransparency.png');
+						let patht = require('./assets/casa/Texture/House2_low_03 - Default_AlbedoTransparency.png');
+						let texture = textLoader.load(patht);
 						child.material = new THREE.MeshStandardMaterial({map: texture});
 						child.castShadow = true;
 						child.receiveShadow = true;
@@ -497,8 +499,10 @@ var loadObjects = function(){
 			console.log("Deu erro: "+error);
 		}
 	);
+	
+	let path = require('./assets/cavaleiro/KnightCharacter.fbx');
 	fbxLoader.load(
-		'assets/cavaleiro/KnightCharacter.fbx',//o que carregar
+		path,//o que carregar
 		function(obj){ //função executada após o loading
 			obj.traverse(
 				function (child){
@@ -537,8 +541,9 @@ var loadObjects = function(){
 			console.log("Deu erro: "+error);
 		}
 	);
+	let path = require('./assets/corvo/Raven.fbx');
 	fbxLoader.load(
-		'assets/corvo/Raven.fbx',//o que carregar
+		path,//o que carregar
 		function(obj){ //função executada após o loading
 			obj.traverse(
 				function (child){
@@ -578,8 +583,9 @@ var loadObjects = function(){
 			console.log("Deu erro: "+error);
 		}
 	);
+	let path = require('./assets/escudos/Shield1.FBX');
 	fbxLoader.load(
-		'assets/escudos/Shield1.FBX',//o que carregar
+		path,//o que carregar
 		function(obj){ //função executada após o loading
 			obj.traverse(
 				function (child){
@@ -619,8 +625,9 @@ var loadObjects = function(){
 		}
 	);
 	
+	let path = require('./assets/martelo/Sledgehammer.FBX');
 	fbxLoader.load(
-		'assets/martelo/Sledgehammer.FBX',//o que carregar
+		path,//o que carregar
 		function(obj){ //função executada após o loading
 			obj.traverse(
 				function (child){
@@ -660,8 +667,9 @@ var loadObjects = function(){
 			console.log("Deu erro: "+error);
 		}
 	);
+	let path = require('./assets/tenda/Stylized_Fantasy_House2.FBX');
 	fbxLoader.load(
-		'assets/tenda/Stylized_Fantasy_House2.FBX',//o que carregar
+		path,//o que carregar
 		function(obj){ //função executada após o loading
 			obj.traverse(
 				function (child){
@@ -775,8 +783,9 @@ var loadObjects = function(){
 			}
 		}
 		grasses = grasses + 1;
+		let path = require('./assets/floresta/Grass/FBX Files/Grass.fbx')
 		fbxLoader.load(
-			'assets/floresta/Grass/FBX Files/Grass.fbx',
+			path,
 			function(obj){ //função executada após o loading
 				obj.traverse(
 					function (child){
@@ -1023,8 +1032,9 @@ var loadObjects = function(){
 		
 	}
 
+	let path = require('./assets/esqueleto/skeleton.fbx');
 	fbxLoader.load(
-		'assets/esqueleto/skeleton.fbx',//o que carregar
+		path,//o que carregar
 		function(obj){ //função executada após o loading
 			console.log("Lobinho");
 			obj.traverse(
@@ -1267,7 +1277,8 @@ var init = function (){
 	soundBack = new THREE.Audio( listener );
 
 	let textLoader = new THREE.TextureLoader();
-	let textureGround = textLoader.load('assets/grasslight-big.jpg');
+	let path = require('./assets/grasslight-big.jpg');
+	let textureGround = textLoader.load(path);
 	textureGround.wrapS = textureGround.wrapT = THREE.RepeatWrapping;
 	textureGround.repeat.set(250,250);
 	textureGround.anisotropy = 16;
