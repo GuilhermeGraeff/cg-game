@@ -1,0 +1,15 @@
+Pack Includes:
+
+9 Bushes
+
+9 Flowers
+
+1 Grass
+
+4 Mushrooms
+
+9 Stones
+
+9 Trees
+
+All the models have 2 folders inside - Blend Folder for if you want to edit the model + FBX folder if you want to drag and drop it into Unity.
