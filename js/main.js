@@ -50,8 +50,8 @@ arveresPath[7] = new Array();
 arveresPath[8] = new Array();
 arveresPath[9] = new Array();
 arveresPath[10] = new Array();
-
-arveresPath[0][0] = 'assets/floresta/Trees/FBX Files/Tree 1.1/Tree1.1.fbx';
+// qawsd
+arveresPath[0][0] = 'assets/floresta/Trees/FBX Files/Tree 1.1/Tree1.1.fbx'; 
 arveresPath[0][1] = -14; 
 arveresPath[1][0] = 'assets/floresta/Trees/FBX Files/Tree 1.2/Tree1.2.fbx';
 arveresPath[1][1] = -14;
