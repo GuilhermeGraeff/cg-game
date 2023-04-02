@@ -1230,8 +1230,7 @@ var carregaSomFundo = function(){
 	});
 }
 
-init();
-animation();
+
 var init = function (){
 	scene = new THREE.Scene();
     scene.background = new THREE.Color(0x00b0ff);
