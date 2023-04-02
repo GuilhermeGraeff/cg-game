@@ -456,9 +456,9 @@ var loadObjects = function(){
 			console.log("Deu erro: "+error);
 		}
 	);
-	let path1 = require('./assets/casa/Fantasy_House.FBX');
+	let path12 = require('./assets/casa/Fantasy_House.FBX');
 	fbxLoader.load(
-		path1,//o que carregar
+		path12,//o que carregar
 		function(obj){ //função executada após o loading
 			obj.traverse(
 				function (child){
