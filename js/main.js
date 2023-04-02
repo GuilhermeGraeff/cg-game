@@ -415,9 +415,9 @@ var loadObjects = function(){
 	
     let fbxLoader = new THREE.FBXLoader();
 	let textLoader = new THREE.TextureLoader();
-	let path = require('./assets/bau/chest_low.FBX');
+	let path9 = require('./assets/bau/chest_low.FBX');
 	fbxLoader.load(
-		path,//o que carregar
+		path9,//o que carregar
 		function(obj){ //função executada após o loading
 			obj.traverse(
 				function (child){
@@ -456,9 +456,9 @@ var loadObjects = function(){
 			console.log("Deu erro: "+error);
 		}
 	);
-	let path = require('./assets/casa/Fantasy_House.FBX');
+	let path1 = require('./assets/casa/Fantasy_House.FBX');
 	fbxLoader.load(
-		path,//o que carregar
+		path1,//o que carregar
 		function(obj){ //função executada após o loading
 			obj.traverse(
 				function (child){
@@ -500,9 +500,9 @@ var loadObjects = function(){
 		}
 	);
 	
-	let path = require('./assets/cavaleiro/KnightCharacter.fbx');
+	let path1 = require('./assets/cavaleiro/KnightCharacter.fbx');
 	fbxLoader.load(
-		path,//o que carregar
+		path1,//o que carregar
 		function(obj){ //função executada após o loading
 			obj.traverse(
 				function (child){
@@ -541,9 +541,9 @@ var loadObjects = function(){
 			console.log("Deu erro: "+error);
 		}
 	);
-	let path = require('./assets/corvo/Raven.fbx');
+	let path2 = require('./assets/corvo/Raven.fbx');
 	fbxLoader.load(
-		path,//o que carregar
+		path2,//o que carregar
 		function(obj){ //função executada após o loading
 			obj.traverse(
 				function (child){
@@ -583,9 +583,9 @@ var loadObjects = function(){
 			console.log("Deu erro: "+error);
 		}
 	);
-	let path = require('./assets/escudos/Shield1.FBX');
+	let path3 = require('./assets/escudos/Shield1.FBX');
 	fbxLoader.load(
-		path,//o que carregar
+		path3,//o que carregar
 		function(obj){ //função executada após o loading
 			obj.traverse(
 				function (child){
@@ -625,9 +625,9 @@ var loadObjects = function(){
 		}
 	);
 	
-	let path = require('./assets/martelo/Sledgehammer.FBX');
+	let path4 = require('./assets/martelo/Sledgehammer.FBX');
 	fbxLoader.load(
-		path,//o que carregar
+		path4,//o que carregar
 		function(obj){ //função executada após o loading
 			obj.traverse(
 				function (child){
@@ -667,9 +667,9 @@ var loadObjects = function(){
 			console.log("Deu erro: "+error);
 		}
 	);
-	let path = require('./assets/tenda/Stylized_Fantasy_House2.FBX');
+	let path5 = require('./assets/tenda/Stylized_Fantasy_House2.FBX');
 	fbxLoader.load(
-		path,//o que carregar
+		path5,//o que carregar
 		function(obj){ //função executada após o loading
 			obj.traverse(
 				function (child){
@@ -783,9 +783,9 @@ var loadObjects = function(){
 			}
 		}
 		grasses = grasses + 1;
-		let path = require('./assets/floresta/Grass/FBX Files/Grass.fbx')
+		let path6 = require('./assets/floresta/Grass/FBX Files/Grass.fbx')
 		fbxLoader.load(
-			path,
+			path6,
 			function(obj){ //função executada após o loading
 				obj.traverse(
 					function (child){
@@ -1032,9 +1032,9 @@ var loadObjects = function(){
 		
 	}
 
-	let path = require('./assets/esqueleto/skeleton.fbx');
+	let path7 = require('./assets/esqueleto/skeleton.fbx');
 	fbxLoader.load(
-		path,//o que carregar
+		path7,//o que carregar
 		function(obj){ //função executada após o loading
 			console.log("Lobinho");
 			obj.traverse(
@@ -1277,8 +1277,8 @@ var init = function (){
 	soundBack = new THREE.Audio( listener );
 
 	let textLoader = new THREE.TextureLoader();
-	let path = require('./assets/grasslight-big.jpg');
-	let textureGround = textLoader.load(path);
+	let path8 = require('./assets/grasslight-big.jpg');
+	let textureGround = textLoader.load(path8);
 	textureGround.wrapS = textureGround.wrapT = THREE.RepeatWrapping;
 	textureGround.repeat.set(250,250);
 	textureGround.anisotropy = 16;
